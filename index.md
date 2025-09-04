@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name>
+# Hi, I'm <Ayaan Gupta>
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
@@ -7,7 +7,8 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+My name is ayaan, I am interested in the field of robotics, and my goal is further pursue my passion for it.
+I am learning Java currently.
 
 ---
 *Update this page by editing `index.md` in your repository.*
